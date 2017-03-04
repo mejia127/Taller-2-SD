@@ -1,0 +1,5 @@
+Usuario carlos
+Contraseña carlos
+Ip 127.0.0.1
+Fecha 03/04/17
+Hora 00:09:37

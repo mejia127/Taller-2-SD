@@ -1,0 +1,4 @@
+Id Producto 1
+Nombre del Produto ["Banano"]
+Inicio de Inventario Bodega 5
+
