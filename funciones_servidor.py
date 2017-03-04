@@ -33,13 +33,13 @@ def getcontrasena():
     return cadena
 
 def validar_usuario(cadena):
-    if(cadena == "Fernando"):
+    if(cadena == "Marcela"):
         return True
     else:
         return False
 
 def validar_contrasena(cadena):
-    if(cadena == "Fernando"):
+    if(cadena == "Marcela"):
         return True
     else:
         return False
